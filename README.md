@@ -22,7 +22,7 @@ No third-party packages are required.
 ## Installation
 
 ```
-git clone https://github.com/YOUR_USERNAME/nmap_portscan_gui.git
+git clone https://github.com/Trinadh3224/nmap_portscan_gui.git
 cd nmap_portscan_gui
 ```
 
